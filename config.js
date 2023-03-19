@@ -73,7 +73,7 @@ const CONFIG = {
       id: "3",
       name: "PSA",
       icon: "magnet",
-      link: "https://psa.pm/",
+      link: "https://psa.re/",
     },
     {
       id: "5",
